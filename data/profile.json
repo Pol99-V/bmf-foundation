@@ -1,0 +1,25 @@
+{
+    "profile": {
+        "v1": "Personal info:",
+        "v2": "Email:",
+        "v3": "WhatsApp:",
+        "v4": "Phone:",
+        "v5": "Company:",
+        "v6": "Position:",
+        "wallet": "Contact your representative to deposit, withdraw or exchange.<div><br><\/div><div><u>We can help you with the following:<\/u><\/div><div><br><\/div><div><b><i>- PayPal&nbsp;<span style=\"background-color: initial; font-size: 1.375rem;\">- Neteller&nbsp;<\/span><span style=\"background-color: initial; font-size: 1.375rem;\">- Skrill -<\/span><\/i><\/b><\/div><div><b><i><span style=\"background-color: initial; font-size: 1.375rem;\"><br><\/span><\/i><\/b><\/div><div><i>What will be coming soon:<\/i><\/div><div><b><i><span style=\"background-color: initial; font-size: 1.375rem;\"><br><\/span><\/i><\/b><\/div><div><span style=\"font-weight: 600;\"><i>- EURO - Zelle - E-Transfer -&nbsp;<\/i><\/span><br><\/div>",
+        "wallet2": "<span class=\"bold\">DEPOSIT AND EARN 0,5% per day<\/span><hr class=\"h05\"><span class=\"italic\">Earn 0,5% per day by keeping your money deposited at Bmf.foundation... <u>that's up to 15,5% per month!<\/u><\/span><hr><u class=\"bold\">BTC Wallet&nbsp;<\/u> &nbsp;—&nbsp; <span class=\"fill-white dark-gray bold wpad05 break-word\">34KCcBiTEt1KAiLVRjyaNsxBpc6A59sANd<\/span><hr><span class=\"bold\">Bmf.foundation Partner Program<\/span><hr class=\"h05\"><span class=\"italic\">Refer friends and family to safely store their funds with Bmf and receive 33% profit-sharing from every transaction they do for life.<\/span>",
+        "ref_link": "Alternatively the partner link can indicate any page of the site.",
+        "v7": "Representative",
+        "v8": "USD balance:",
+        "v9": "BMF balance:",
+        "v10": "Country:",
+        "v16": "Banking Info:",
+        "v17": "Account Number:",
+        "v18": "Account Type:",
+        "v11": "Date",
+        "v12": "Amount",
+        "v13": "Type",
+        "v14": "Earned",
+        "v15": "Partner link"
+    }
+}

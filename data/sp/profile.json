@@ -1,0 +1,25 @@
+{
+    "profile": {
+        "v1": "Personal info:",
+        "v2": "Email:",
+        "v3": "WhatsApp:",
+        "v4": "Phone:",
+        "v5": "Company:",
+        "v6": "Address:",
+        "wallet": "<i>Para utilizar la plataforma bmf, todo lo que necesitas hacer es contactar a uno de nuestros representantes. Para depositar tu moneda local, deberas contactar a uno de nuestros representantes el cual procederá a enviarle toda la información a cerca de donde debe depositar. Una vez completada la operación, el saldo en au perfil será actualizado al monto que depositó en Dolares, DAI, Euro, Bitcoin, Waves o Bmf<\/i><hr><i>Si desea retirar fondos, se aplica el mismo procedimiento,&nbsp; una vez hecho esto, en pocos minutos tendrá su divisa de preferencia equivalente al monto que retiró de su cuenta Bmf<\/i>",
+        "wallet2": "<span class=\"bold\">DEPOSITA Y GANA 0,5% DIARIO<\/span><hr class=\"h05\"><span class=\"italic\">Gana 0,5% al día simplemente manteniendo tu dinero depositado en bmf.foundation...<u>¡Hasta 15,5% mensual!<\/u><\/span><hr><u class=\"bold\">Cartera BTC&nbsp;<\/u> &nbsp;—&nbsp; <span class=\"fill-white dark-gray bold wpad05\">34KCcBiTEt1KAiLVRjyaNsxBpc6A59sANd<\/span><hr><span class=\"bold\">Programa de Socios de BMF Foundation<\/span><hr class=\"h05\"><span class=\"italic\">Invita a tus amigos y familiares a guardar su dinero con Bmf y recibe 33% de ganancia por cada transacción que ellos hagan de por vida.<\/span>",
+        "ref_link": "Alternatively the partner link can indicate any page of the site.",
+        "v7": "Representante",
+        "v8": "Saldo en USD:",
+        "v9": "Saldo en BMF:",
+        "v10": "País:",
+        "v16": "Información Bancaria:",
+        "v17": "Número de cuenta:",
+        "v18": "Tipo de cuenta:",
+        "v11": "Fecha",
+        "v12": "Monto",
+        "v13": "Tipo",
+        "v14": "Ganancia",
+        "v15": "Enlace de Socio"
+    }
+}

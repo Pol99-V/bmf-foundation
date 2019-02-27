@@ -1,0 +1,14 @@
+{
+    "regs": {
+        "regs": {
+            "id0": {
+                "time": "Time",
+                "name": "Name",
+                "mail": "Email",
+                "whatsapp": "WhatsApp",
+                "lang": "Language",
+                "ref": "Referral"
+            }
+        }
+    }
+}

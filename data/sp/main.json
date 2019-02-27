@@ -1,0 +1,134 @@
+{
+
+    "main": {
+        "v1": "Par de Intercambio",
+        "v2": "¿Qué deseas entregar y que deseas recibir?",
+        "v3": "Monto",
+        "v4": "Nombre",
+        "from": {
+            "ves": {
+                "name": "Bolívar",
+                "code": "VES",
+                "icon": ""
+            },
+            "usd": {
+                "name": "US dollar",
+                "code": "USD",
+                "icon": ""
+            },
+            "rub": {
+                "name": "Ruble",
+                "code": "RUB",
+                "icon": ""
+            },
+            "cop": {
+                "name": "Colombian Peso",
+                "code": "COP",
+                "icon": ""
+            },
+            "sol": {
+                "name": "Peruvian Sol",
+                "code": "SOL",
+                "icon": ""
+            },
+            "btc": {
+                "name": "Bitcoin",
+                "code": "BTC",
+                "icon": ""
+            },
+            "dsh": {
+                "name": "Dash",
+                "code": "DSH",
+                "icon": ""
+            },
+            "bmf": {
+                "name": "BMF",
+                "code": "BMF",
+                "icon": ""
+            },
+            "paypal": {
+                "name": "Paypal USD",
+                "code": "USD",
+                "icon": ""
+            },
+            "scrill_usd": {
+                "name": "Skrill USD",
+                "code": "Skrill USD",
+                "icon": ""
+            },
+            "eur": {
+                "name": "EURO",
+                "code": "EUR",
+                "icon": ""
+            },
+            "cad": {
+                "name": "Canadian Dollar",
+                "code": "CAD",
+                "icon": ""
+            },
+            "zelle": {
+                "name": "Zelle",
+                "code": "Zelle",
+                "icon": ""
+            },
+            "inr": {
+                "name": "Indian Rupee",
+                "code": "INR",
+                "icon": ""
+            },
+            "try": {
+                "name": "Turkish Lira",
+                "code": "TRY",
+                "icon": ""
+            }
+        },
+        "to": {
+            "ves": {
+                "name": "Bolívar",
+                "code": "VES",
+                "icon": ""
+            },
+            "usd": {
+                "name": "US dollar",
+                "code": "USD",
+                "icon": ""
+            },
+            "rub": {
+                "name": "Ruble",
+                "code": "RUB",
+                "icon": ""
+            },
+            "btc": {
+                "name": "Bitcoin",
+                "code": "BTC",
+                "icon": ""
+            },
+            "dsh": {
+                "name": "Dash",
+                "code": "DSH",
+                "icon": ""
+            },
+            "bmf": {
+                "name": "BMF",
+                "code": "BMF",
+                "icon": ""
+            },
+            "eur": {
+                "name": "EURO",
+                "code": "EUR",
+                "icon": ""
+            },
+            "cad": {
+                "name": "Canadian Dollar",
+                "code": "CAD",
+                "icon": ""
+            },
+            "zelle": {
+                "name": "Zelle",
+                "code": "Zelle",
+                "icon": ""
+            }
+        }
+    },
+    "success": {}
+}

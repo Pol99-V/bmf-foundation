@@ -1,0 +1,69 @@
+{
+	"main": {
+		"type": "page",
+		"title": "Fundación BMF",
+		"desc": "",
+		"data": "main.json",
+		"exchange": {
+			"type": "page",
+			"title": "Exchange pair",
+			"desc": "",
+			"data": "main.json"
+		},
+		"success": {
+			"type": "page",
+			"title": "Success",
+			"desc": "",
+			"data": "main.json"
+		},
+		"about": {
+			"type": "page",
+			"title": "Sobre nosotros",
+			"desc": "",
+			"data": "about.json"
+		},
+		"services": {
+			"type": "page",
+			"title": "Servicios",
+			"desc": "",
+			"data": "services.json"
+		},
+		"partners": {
+			"type": "page",
+			"title": "Socios",
+			"desc": "",
+			"data": "partners.json"
+		},
+		"profile": {
+			"type": "page",
+			"title": "Perfil",
+			"desc": "",
+			"control": "profile.php",
+			"data": "profile.json"
+		},
+		"investors": {
+			"type": "page",
+			"title": "Investors",
+			"desc": "",
+			"data": "investors.json"
+		},
+		"signin": {
+			"type": "page",
+			"title": "Ingresar",
+			"desc": "",
+			"data": "signin.json"
+		},
+		"register": {
+			"type": "page",
+			"title": "Registrar",
+			"desc": "",
+			"data": "register.json"
+		},
+		"404": {
+			"type": "page",
+			"title": "404 error",
+			"desc": "",
+			"data": "404.json"
+		}
+	}
+}

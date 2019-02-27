@@ -1,0 +1,9 @@
+{
+	"register": {
+		"v1": "Registrar",
+		"v2": "Te has registrado exitosamente.<hr class=\"h05\">Te contactaremos en las prot 24 horas.",
+		"v3": "Algo no está bien. Intenta de nuevo en unos minutos&ellip;",
+		"v4": "¿Ya te encuentras registrado?<br><a class=\"modal-link\" href=\"/sp/signin\">Ingresar</a>",
+		"v5": "Registrar"
+	}
+}

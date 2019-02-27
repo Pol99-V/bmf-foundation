@@ -1,0 +1,5 @@
+<?
+
+	$views[] = "view/case.php";
+
+?>

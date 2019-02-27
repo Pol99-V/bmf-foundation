@@ -1,0 +1,98 @@
+{
+	"main": {
+		"type": "page",
+		"title": "BMF Foundation",
+		"desc": "",
+		"data": "main.json",
+		"exchange": {
+			"type": "page",
+			"title": "Exchange pair",
+			"desc": "",
+			"data": "main.json"
+		},
+		"success": {
+			"type": "page",
+			"title": "Success",
+			"desc": "",
+			"data": "main.json"
+		},
+		"about": {
+			"type": "page",
+			"title": "About Us",
+			"desc": "",
+			"data": "about.json"
+		},
+		"services": {
+			"type": "page",
+			"title": "Services",
+			"desc": "",
+			"data": "services.json"
+		},
+		"partners": {
+			"type": "page",
+			"title": "Partners",
+			"desc": "",
+			"data": "partners.json"
+		},
+		"profile": {
+			"type": "page",
+			"title": "Profile",
+			"desc": "",
+			"control": "profile.php",
+			"data": "profile.json"
+		},
+		"investors": {
+			"type": "page",
+			"title": "Investors",
+			"desc": "",
+			"data": "investors.json"
+		},
+		"admin": {
+			"type": "page",
+			"title": "Admin panel",
+			"desc": "",
+			"control": "admin.php",
+			"data": "admin/admin.json",
+			"regs": {
+				"type": "page",
+				"title": "list of registered",
+				"desc": "",
+				"data": "admin/regs.json"
+			},
+			"users": {
+				"type": "page",
+				"title": "Users",
+				"desc": "",
+				"data": "admin/users.json"
+			},
+			"adduser": {
+				"type": "page",
+				"title": "Add User",
+				"desc": ""
+			},
+			"removeuser": {
+				"type": "page",
+				"title": "Remove User",
+				"desc": ""
+			}
+		},
+		"signin": {
+			"type": "page",
+			"title": "Sign In",
+			"desc": "",
+			"data": "signin.json"
+		},
+		"register": {
+			"type": "page",
+			"title": "Register",
+			"desc": "",
+			"data": "register.json"
+		},
+		"404": {
+			"type": "page",
+			"title": "404 error",
+			"desc": "",
+			"data": "404.json"
+		}
+	}
+}

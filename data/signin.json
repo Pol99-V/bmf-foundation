@@ -1,0 +1,9 @@
+{
+	"signin": {
+		"v1": "Sign In",
+		"v2": "Something is wrong. Try again in a few minutes&ellip;",
+		"v3": "Password",
+		"v4": "First time?&nbsp; <a class=\"modal-link\" href=\"/register\">Register</a>",
+		"v5": "Enter"
+	}
+}

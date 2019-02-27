@@ -1,0 +1,153 @@
+/*.button {
+	display: inline-block;
+	height: 3rem;
+	padding: 0 1.25rem;
+	box-sizing: border-box;
+	border: 0;
+	border-radius: .25rem;
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: .025em;
+	line-height: 3rem;
+	color: #fff;
+	font-weight: 500;
+	font-size: .875rem;
+	text-transform: uppercase;
+	cursor: pointer;
+	background: #4A90E2;
+	box-shadow: 0 .25rem .625rem 0 rgba(0,0,0,.25);
+}
+.button.main {
+	height: 4.5rem;
+	line-height: 4.3125rem;
+	padding: .1875rem 2.5rem 0;
+	font-size: 1.75rem;
+	background: #F40;
+}*/
+
+
+/*::-webkit-input-placeholder {color: #999; color: rgba(0,0,0,.4)}
+:-moz-placeholder {color: #999; color: rgba(0,0,0,.4)}
+::-moz-placeholder {color: #999; color: rgba(0,0,0,.4)}
+:-ms-input-placeholder {color: #999; color: rgba(0,0,0,.4)}
+.inverse ::-webkit-input-placeholder, .inverse::-webkit-input-placeholder {color: #aaa; color: rgba(255,255,255,.4)}
+.inverse :-moz-placeholder, .inverse:-moz-placeholder {color: #aaa; color: rgba(255,255,255,.4)}
+.inverse ::-moz-placeholder, .inverse::-moz-placeholder {color: #aaa; color: rgba(255,255,255,.4)}
+.inverse :-ms-input-placeholder, .inverse:-ms-input-placeholder {color: #aaa; color: rgba(255,255,255,.4)}
+
+.button {
+	position: relative;
+	display: inline-block;
+	height: 2.25rem;
+	padding: 0 1.25rem;
+	box-sizing: border-box;
+	border: 0;
+	border-radius: .125rem;
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: .05em;
+	line-height: 2.25rem;
+	color: #fff;
+	box-shadow: 0 .25rem .25rem -.25rem rgba(0,0,0,.5),
+							inset 0 1px 0 0 rgba(255,255,255,.25),
+							inset 0 -1px 0 0 rgba(0,0,0,.25);
+	cursor: pointer;
+}
+.button.hide {display: none}
+.inverse .button, .inverse.button {
+	box-shadow: 0 .5rem .5rem -.5rem rgba(0,0,0,.5),
+							0 0 .25rem rgba(0,0,0,.3),
+							inset 0 1px 0 0 rgba(255,255,255,.5),
+							inset 0 -1px 0 0 rgba(0,0,0,.5);
+}
+.button.ml {
+	height: initial;
+	line-height: initial;
+	padding: .375rem 1.25rem;
+}
+.button .limiter {
+	box-sizing: border-box;
+	border: 0 solid transparent;
+	border-top-width: .0625rem;
+	border-bottom-width: .0625rem;
+}
+.button .trace {
+	position: absolute;
+	background: #fff;
+	border-radius: 50%;
+}
+input[type="text"],
+input[type="password"],
+input[type="datetime-local"],
+input[type="time"],
+input[type="number"],
+select,
+textarea {
+	display: inline-block;
+	width: 100%;
+	padding: 0 .625rem;
+	font: 1rem 'Open Sans', sans-serif;
+	color: #333;
+	border: 0;
+	border-radius: .125rem;
+	background: #fff;
+	box-sizing: border-box;
+	box-shadow: inset 0 .25rem .125rem -.125rem rgba(0,0,0,.25);
+}
+input[type="text"],
+input[type="password"],
+input[type="datetime-local"],
+input[type="time"],
+select {height: 2.25rem; max-width: 12.5rem; line-height: 2.25rem}
+textarea {line-height: 1.375em; padding: .625rem}
+input[type="number"] {
+	height: 2.25rem;
+	max-width: 3rem;
+	line-height: 2.25rem;
+	padding: 0 0 0 .75rem;
+	font-weight: bold;
+}
+input.hide {display: none}
+input:focus, select:focus, textarea:focus {
+	outline: none;
+	box-shadow: inset 0 .25rem .125rem -.125rem rgba(0,0,0,.25),
+							inset 0 6rem 6rem -6rem rgba(255,255,180,.5);
+}
+.inverse input, .invert select, .invert textarea {color: #fff}
+input.req.wrong, textarea.req.wrong {background: #FFCDD2}
+input.oneofreq.wrong, textarea.oneofreq.wrong {background: rgba(50,74,201,.2)}
+.label {
+	width: 100%;
+	max-width: 12rem;
+	font-size: .875rem;
+	font-weight: 500;
+	padding: 0 .25rem;
+	line-height: 1.25rem;
+	text-align: left;
+	color: rgba(0,0,0,.75);
+	box-sizing: border-box;
+	white-space: nowrap;
+}
+.inverse .label {color: #fff; color: rgba(255,255,255,.75)}
+
+.button.green {background: linear-gradient(#66BB6A, #43A047)}
+.button.green:hover {background: linear-gradient(#4CAF50, #388E3C)}
+.button.green.disabled {background: linear-gradient(#A5D6A7, #81C784)}
+.button.green.disabled:hover {background: linear-gradient(#A5D6A7, #81C784)}
+.button.grey {background: linear-gradient(#9E9E9E, #757575)}
+.button.grey:hover {background: linear-gradient(#757575, #616161)}
+.button.blue-grey {background: linear-gradient(#78909C, #546E7A)}
+.button.blue-grey:hover {background: linear-gradient(#607D8B, #455A64)}
+.button.blue-grey.disabled {background: linear-gradient(#B0BEC5, #90A4AE)}
+.button.blue-grey.disabled:hover {background: linear-gradient(#B0BEC5, #90A4AE)}
+.button.red {background: linear-gradient(#EF5350, #E53935)}
+.button.red:hover {background: linear-gradient(#F44336, #D32F2F)}
+
+.button.blue {background: linear-gradient(#5588A3, #145374)}
+.button.blue:hover {background: linear-gradient(#145374, #00334E)}
+.button.orange {background: #FF7E4F}
+.button.orange:hover {background: #e57147}
+.button.disabled {cursor: default}
+*/
+
+

@@ -1,0 +1,45 @@
+{
+	"main": {
+		"type": "page",
+		"title": "BMF Foundation",
+		"desc": "",
+		"data": "main.json",
+		"about": {
+			"type": "page",
+			"title": "О нас",
+			"desc": "",
+			"data": "about.json"
+		},
+		"services": {
+			"type": "page",
+			"title": "Services",
+			"desc": "",
+			"data": "services.json"
+		},
+		"profile": {
+			"type": "page",
+			"title": "Личный кабинет",
+			"desc": "",
+			"control": "profile.php",
+			"data": "profile.json"
+		},
+		"signin": {
+			"type": "page",
+			"title": "Войти",
+			"desc": "",
+			"data": "signin.json"
+		},
+		"register": {
+			"type": "page",
+			"title": "Зарегистрироваться",
+			"desc": "",
+			"data": "register.json"
+		},
+		"404": {
+			"type": "page",
+			"title": "404 ошибка",
+			"desc": "",
+			"data": "404.json"
+		}
+	}
+}

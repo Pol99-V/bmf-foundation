@@ -1,0 +1,9 @@
+{
+	"signin": {
+		"v1": "Ingresar",
+		"v2": "Algo no está bien. Intenta de nuevo en unos minutos&ellip;",
+		"v3": "Contraseña",
+		"v4": "¿Primera vez?<br><a class=\"modal-link\" href=\"/sp/register\">Registrarse</a>",
+		"v5": "Entrar"
+	}
+}

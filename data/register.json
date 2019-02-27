@@ -1,0 +1,8 @@
+{
+	"register": {
+		"v1": "Register",
+		"v2": "You have successfully registered.<hr class=\"h05\">We will contact you within 24 hours.",
+		"v3": "Something is wrong. Try again in a few minutes&ellip;",
+		"v4": "Already registered?&nbsp; <a class=\"modal-link\" href=\"/signin\">Sign In</a>"
+	}
+}

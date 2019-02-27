@@ -1,0 +1,59 @@
+.line, .line-na {clear: both}
+.line::after, .line-na::after {
+	content: ".";
+	display: block;
+	height: 0;
+	overflow: hidden;
+	clear: both;
+}
+[class^='col'] {box-sizing: border-box; float: left}
+[class^='col']:not(.nm) {margin: 0 1%}
+[class^='col']:first-child {margin-left: 0}
+[class^='col']:last-child {margin-right: 0}
+[class^='col'].indent {padding-left: 2rem; padding-right: 2rem}
+[class^='col'].indent:first-child {padding-left: 0}
+[class^='col'].indent:last-child {padding-right: 0}
+.col1 {width: 6.5%}
+.col2 {width: 15%}
+.col3 {width: 23.5%}
+.col4 {width: 32%}
+.col5 {width: 40.5%}
+.col6 {width: 49%}
+.col7 {width: 57.5%}
+.col8 {width: 66%}
+.col9 {width: 74.5%}
+.col10 {width: 83%}
+.col11 {width: 91.5%}
+.col12 {width: 100%}
+hr.multigrid {
+	height: 0;
+	padding-bottom: 6.25%;
+}
+body.mob hr.multigrid {
+	height: 1rem;
+	padding-bottom: 0;
+}
+.ratiovid.multigrid {padding-bottom: 54.8828125%}
+body.mob .line > [class^='col'] {
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+	margin: 0;
+}
+body.mob .line > [class^='col']+[class^='col'] {
+	margin-top: 1.5rem;
+}
+body.mob .line.multigrid > [class^='col']+[class^='col'] {
+	margin-top: 1rem;
+}
+/*body.mob .line > [class^='col']:first-child,*/
+/*body.mob .line > [class^='col']:last-child {margin-left: 0; margin-right: 0}*/
+
+.nline {opacity: 1; transition: .2s}
+.nline.invis {opacity: 0; transition: .2s}
+.nline::after {content: ''; display: table; clear: both}
+.row {float: left; position: relative}
+.unit {box-sizing: border-box; float: left; position: relative; margin: 0}
+.unit:first-child {margin-left: 0}
+.unit:last-child {margin-right: 0}
+.unit img {width: 100%; display: block}
